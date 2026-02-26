@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://haiira.github.io
+url: https://harakii-dev.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,5 +102,5 @@ theme: paper
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:haiira/haiira.github.io.git
+  repository: git@github.com:harakii-dev/harakii-dev.github.io.git
   branch: deployment
