@@ -4,7 +4,7 @@
 
 # Site
 title: HARAKII
-subtitle: ''
+subtitle: '原木'
 description: '原木'
 keywords:
 author: HARAKII
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: paper
+theme: maupassant-hexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
