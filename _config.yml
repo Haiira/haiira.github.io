@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: HARAKII
+title: YUMIC
 subtitle: '原木'
 description: '原木'
 keywords:
-author: HARAKII
+author: YUMIC
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://harakii-dev.github.io
+url: https://yumica.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,5 +102,5 @@ theme: maupassant-hexo
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:harakii-dev/harakii-dev.github.io.git
+  repository: git@github.com:yumica/yumica.github.io.git
   branch: deployment
